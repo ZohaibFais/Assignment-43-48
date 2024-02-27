@@ -1,0 +1,10 @@
+.phones{
+    width: 100%;
+    background: gray;
+    height: 300px;
+    display: flex;
+}
+
+.phones img{
+    width: 320px;
+}
